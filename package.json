@@ -6,6 +6,6 @@
   "license": "ISC",
   "dependencies": {
     "@iceteachain/web3": "^0.1.16",
-    "http-proxy": "^1.18.0"
+    "http-proxy": "^1.18.1"
   }
 }
